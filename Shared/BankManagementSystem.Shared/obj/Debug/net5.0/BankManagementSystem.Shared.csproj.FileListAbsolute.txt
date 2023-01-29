@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\bin\Debug\net5.0\BankManagementSystem.Shared.deps.json
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\bin\Debug\net5.0\BankManagementSystem.Shared.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\bin\Debug\net5.0\BankManagementSystem.Shared.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.AssemblyInfo.cs
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\refint\BankManagementSystem.Shared.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\BankManagementSystem.Shared.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\MicroserviceProject\Shared\BankManagementSystem.Shared\obj\Debug\net5.0\ref\BankManagementSystem.Shared.dll
